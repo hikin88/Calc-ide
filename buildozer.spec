@@ -31,7 +31,7 @@ android.logcat_filters = *:S python:D
 
 # Локальные рецепты python-for-android
 p4a.local_recipes = ./recipes
-p4a.branch = master
+p4a.branch = v2024.01.21
 
 
 [buildozer]
